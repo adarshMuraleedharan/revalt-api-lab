@@ -1,6 +1,8 @@
 # revalt-api-testbench
 Experimental development and testing environment for REVALT REST APIs, Postman collections, HTTP fundamentals, automated API testing, and future backend and IoT integrations.
 
+<img width="461" height="283" alt="image" src="https://github.com/user-attachments/assets/1e13696b-0a64-4028-abfc-978650657642" />
+
 # REVALT API Lab
 
 **API Development | REST API Testing | Postman | Backend Integration | IoT Connectivity**
